@@ -19,6 +19,6 @@
 ![](https://github.com/remizovk/collecting_logs/blob/e219ab4a998d68b1b5caa9877eec9b7416aa39ed/jpg/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-09-14%2014-34-20.png)  
 
 2. Audit (локальные логи)  
-
+![](https://github.com/remizovk/collecting_logs/blob/08f236829018c0d4236f2420464a6ac4de0ca9eb/jpg/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-09-14%2014-45-48.png)  
 
 3. Audit (логи с web-сервера)  
